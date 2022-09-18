@@ -77,6 +77,7 @@ public class imposto {
         System.out.printf("Abatimento: %.2f", abat);
         System.out.println();
         System.out.printf("Imposto devido: %.2f", impDev);
+        System.out.println();
         System.out.println("");
         sc.close();
 
